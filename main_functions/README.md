@@ -21,7 +21,7 @@ use the script *create_data_example.m* to generate an example dataset that conta
 9. *behavior_relationship.m*: function to analysze the contribution of the static component (ST) and the Dyn-PCs to explain behavioral deficits of sub-acute patients and behavioral recovery.
 
 Additional functions:
-* *DFCs_modularity.m: function to evaluate network modularity of the DFC of each sliding window.
+* *DFCs_modularity.m*: function to evaluate network modularity of the DFC of each sliding window.
 * *DFCs_homotopic_DAN_DMN_modularity,m*: function to evaluate the homotopic network connectivity, the DAN-DMN intra-hemispheric connectivity and the average network modularity of the DFC of each sliding window.
 
 Subfolders:
