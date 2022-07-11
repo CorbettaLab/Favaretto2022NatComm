@@ -4,7 +4,7 @@ This repository contains the main code of the manuscript **"Subcortical-cortical
 
 ## Contents:
 
-- *main_functions/*: main scipts 
+- *main_functions/*: main scripts 
     - *utility/*: utility functions
     - *external/*: external toolboxes 
     - *stat_tests/:* functions to run statistical tests to compare dynamical measures between groups
